@@ -16,7 +16,11 @@ function Amigos() {
         <h1>
           Vista de amigos
         </h1>
-        
+        <ul>
+          <li>Horacio</li>
+          <li>Anny</li>
+          <li>Luis</li>
+        </ul>
       </main>
     </div>
   );
